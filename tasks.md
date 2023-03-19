@@ -1,7 +1,7 @@
 ## Задача 1.   
 ### Фокусировка на поле формы  
 Напишите скрипт, который при фокусировке на любом поле ввода формы изменяет его цвет фона на желтый, а при потере фокуса возвращает цвет обратно в исходный.   
-### HTML и CSS взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_53_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_1) 
+### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_53_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_1) 
 ### 1  
 ![image](https://user-images.githubusercontent.com/113675674/226161922-a7000c91-354a-4997-a5d5-20a8026052c6.png)  
 ### 2  
