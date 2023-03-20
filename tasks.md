@@ -1,7 +1,7 @@
 ## Задача 1.   
 ### Фокусировка на поле формы  
 Напишите скрипт, который при фокусировке на любом поле ввода формы изменяет его цвет фона на желтый, а при потере фокуса возвращает цвет обратно в исходный.   
-### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_53_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_1) 
+### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_1) 
 ### 1  
 ![image](https://user-images.githubusercontent.com/113675674/226161922-a7000c91-354a-4997-a5d5-20a8026052c6.png)  
 ### 2  
@@ -9,7 +9,7 @@
 
 ## Задача 2.   
 ### Фокусировка на элементе списка  
-### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_53_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_2) 
+### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_2) 
 Напишите скрипт, который при фокусировке на любом элементе списка добавляет ему класс `active`, а при потере фокуса удаляет этот класс.   
 Для реализации задачи используйте атрибут `tabindex` для установки последовательности табуляции элементов списка.  
 ![image](https://user-images.githubusercontent.com/113675674/226162519-f1608b27-3e92-47b4-82e9-7cfa3eeba889.png)  
@@ -27,7 +27,7 @@
 - Когда пользователь нажимает на поле, оно должно становиться в фокусе, а остальные поля должны быть размытыми (blur);  
 - Когда пользователь отправляет форму, сообщение должно быть отправлено на сервер, а поля формы должны быть очищены.  
 - Для решения этой задачи вам придется использовать методы фокусировки и размытия в JavaScript, а также обработчик событий отправки формы.  
-### HTML и CSS взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_53_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_3) 
+### HTML и CSS взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_3) 
 
 ### 1  
 ![image](https://user-images.githubusercontent.com/113675674/226161242-e83ba5c9-d8ec-459e-9b73-79f9f7274991.png)  
