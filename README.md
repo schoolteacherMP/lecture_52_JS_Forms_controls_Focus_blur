@@ -1,5 +1,6 @@
 # lecture_52_JS_Forms_controls_Focus_blur  
 
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Focus_blur/blob/main/tasks.md)  
 
 События `focus` и `blur` срабатывают на фокусировке/потере фокуса элемента.  
