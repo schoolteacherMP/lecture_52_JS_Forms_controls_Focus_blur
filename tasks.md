@@ -7,6 +7,11 @@
 ### 2  
 ![image](https://user-images.githubusercontent.com/113675674/226161942-36d72edd-7178-4283-a067-dd7af48daf64.png)  
 
+1. Получить все поля ввода формы с помощью метода querySelectorAll. В данном случае, выбираются все элементы <input> и <textarea>.  `document.querySelectorAll('input, textarea');`  
+2. Использовать цикл forEach для перебора каждого поля ввода и присоединения к нему обработчиков событий focus и blur.
+3. В обработчике события focus устанавливаем желтый цвет фона для поля ввода, присвоив значение 'yellow' свойству backgroundColor элемента input.
+4. В обработчике события blur возвращаем исходный цвет фона поля ввода, установив пустое значение '' свойству backgroundColor элемента input.  
+
 ## Задача 2.   
 ### Фокусировка на элементе списка  
 ### HTML взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Focus_blur/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_2) 
